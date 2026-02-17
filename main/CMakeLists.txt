@@ -26,9 +26,7 @@ idf_component_register(
         "tools/tool_web_search.c"
         "tools/tool_get_time.c"
         "tools/tool_files.c"
-        "tools/tool_cron.c"
-        "cron/cron_service.c"
-        "heartbeat/heartbeat.c"
+        "skills/skill_loader.c"
     INCLUDE_DIRS
         "."
     EMBED_FILES
