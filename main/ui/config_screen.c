@@ -7,7 +7,6 @@
 #include "display/font5x7.h"
 #include "wifi/wifi_manager.h"
 #include "mimi_config.h"
-#include "mimi_secrets.h"
 #include "nvs.h"
 #include "esp_log.h"
 
